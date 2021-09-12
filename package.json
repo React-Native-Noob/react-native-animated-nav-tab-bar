@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/torgeadelin/react-native-animated-nav-tab-bar.git"
+    "url": "git+https://github.com/React-Native-Noob/react-native-animated-nav-tab-bar"
   },
   "files": [
     "dist"
